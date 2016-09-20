@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="empty_login_fields">Please complete the form</string>
+    <string name="error">Error</string>
+    <string name="emailError">Email is not valid</string>
+    <string name="emailExist">Email already exist</string>
+    <string name="pwdError">Password should contain one special character and minimum 8 characters required</string>
+    <string name="phoneError">Mobile number is not valid ( Only check for Malaysian)</string>
+    <string name="userTypeError">Please select user type</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="first_name">first name</string>
+    <string name="lastName">last name</string>
+    <string name="email">email</string>
+    <string name="phoneNumber">phone number</string>
+    <string name="signup">SignUp</string>
+    <string name="edit">EDIT</string>
+    <string name="user_type">USER TYPE</string>
+    <string name="logout">Logout</string>
+    <string name="succesEditPhone">Number edit successfully</string>
+
+    <string-array name="user_type">
+        <item>[--------USER TYPE--------]</item>
+        <item>Broker</item>
+        <item>Agent</item>
+        <item>Dealer</item>
+        <item>Private</item>
+    </string-array>
+
+</resources>
